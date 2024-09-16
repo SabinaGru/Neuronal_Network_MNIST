@@ -17,6 +17,11 @@ Next, a deeper network with three hidden layers was constructed to classify all 
 
 In conclusion, this notebook demonstrates that neural networks can be applied to solve various complex tasks with the same basic structure. However, the optimization required can vary significantly depending on the specific problem. The primary aim of this work was to practice mathematical thinking and communication in practical applications, rather than achieving optimal results. As such, the models presented here are far from reaching an optimal outcome.
 
+
+<img src="https://github.com/user-attachments/assets/7892a72c-3896-41e9-9dc4-7e468805157d" alt="image" width="300"/>
+
+
+
 ---
 ## Steps taken:
 * explore MNIST dataset
