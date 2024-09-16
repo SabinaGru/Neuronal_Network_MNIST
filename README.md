@@ -1,5 +1,12 @@
 # Neuronal_Network_MNIST
-NN with MNIST Dataset from scratch
+NN with MNIST dataset from scratch
+
+<div style="display: flex; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/1a2e8481-9155-44a6-8285-68ed5ea82a63" alt="image" width="300"/>
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3VNBdeax5uKmbAJuXLShCw.png" alt="image" width="345"/>
+</div>
+
+
 
 ## Summary
 In this notebook, neural networks were designed and trained to correctly classify the MNIST dataset of handwritten digits. After examining the details of the dataset, a linear layer was implemented as the foundational building block of neural networks. A simple model was then created with one hidden layer and an output layer to identify images containing the digit "4."
